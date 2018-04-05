@@ -1,0 +1,552 @@
+{
+  "data": [
+    {
+      "year": "2018",
+      "pubCount": "4,605"
+    },
+    {
+      "year": "2017",
+      "pubCount": "7,522"
+    },
+    {
+      "year": "2016",
+      "pubCount": "6,969"
+    },
+    {
+      "year": "2015",
+      "pubCount": "6,789"
+    },
+    {
+      "year": "2014",
+      "pubCount": "8,471"
+    },
+    {
+      "year": "2013",
+      "pubCount": "7,307"
+    },
+    {
+      "year": "2012",
+      "pubCount": "4,777"
+    },
+    {
+      "year": "2011",
+      "pubCount": "6,814"
+    },
+    {
+      "year": "2010",
+      "pubCount": "2,535"
+    },
+    {
+      "year": "2009",
+      "pubCount": "3,718"
+    },
+    {
+      "year": "2008",
+      "pubCount": "4,916"
+    },
+    {
+      "year": "2007",
+      "pubCount": "3,914"
+    },
+    {
+      "year": "2006",
+      "pubCount": "1,420"
+    },
+    {
+      "year": "2005",
+      "pubCount": "1,479"
+    },
+    {
+      "year": "2004",
+      "pubCount": "1,002"
+    },
+    {
+      "year": "2003",
+      "pubCount": "846"
+    },
+    {
+      "year": "2002",
+      "pubCount": "747"
+    },
+    {
+      "year": "2001",
+      "pubCount": "776"
+    },
+    {
+      "year": "2000",
+      "pubCount": "591"
+    },
+    {
+      "year": "1999",
+      "pubCount": "557"
+    },
+    {
+      "year": "1998",
+      "pubCount": "538"
+    },
+    {
+      "year": "1997",
+      "pubCount": "540"
+    },
+    {
+      "year": "1996",
+      "pubCount": "522"
+    },
+    {
+      "year": "1995",
+      "pubCount": "488"
+    },
+    {
+      "year": "1994",
+      "pubCount": "441"
+    },
+    {
+      "year": "1993",
+      "pubCount": "467"
+    },
+    {
+      "year": "1992",
+      "pubCount": "419"
+    },
+    {
+      "year": "1991",
+      "pubCount": "406"
+    },
+    {
+      "year": "1990",
+      "pubCount": "382"
+    },
+    {
+      "year": "1989",
+      "pubCount": "325"
+    },
+    {
+      "year": "1988",
+      "pubCount": "285"
+    },
+    {
+      "year": "1987",
+      "pubCount": "234"
+    },
+    {
+      "year": "1986",
+      "pubCount": "262"
+    },
+    {
+      "year": "1985",
+      "pubCount": "218"
+    },
+    {
+      "year": "1984",
+      "pubCount": "209"
+    },
+    {
+      "year": "1983",
+      "pubCount": "180"
+    },
+    {
+      "year": "1982",
+      "pubCount": "166"
+    },
+    {
+      "year": "1981",
+      "pubCount": "160"
+    },
+    {
+      "year": "1980",
+      "pubCount": "138"
+    },
+    {
+      "year": "1979",
+      "pubCount": "101"
+    },
+    {
+      "year": "1978",
+      "pubCount": "108"
+    },
+    {
+      "year": "1977",
+      "pubCount": "89"
+    },
+    {
+      "year": "1976",
+      "pubCount": "81"
+    },
+    {
+      "year": "1975",
+      "pubCount": "75"
+    },
+    {
+      "year": "1974",
+      "pubCount": "76"
+    },
+    {
+      "year": "1973",
+      "pubCount": "69"
+    },
+    {
+      "year": "1972",
+      "pubCount": "50"
+    },
+    {
+      "year": "1971",
+      "pubCount": "59"
+    },
+    {
+      "year": "1970",
+      "pubCount": "43"
+    },
+    {
+      "year": "1969",
+      "pubCount": "52"
+    },
+    {
+      "year": "1968",
+      "pubCount": "44"
+    },
+    {
+      "year": "1967",
+      "pubCount": "51"
+    },
+    {
+      "year": "1966",
+      "pubCount": "47"
+    },
+    {
+      "year": "1965",
+      "pubCount": "38"
+    },
+    {
+      "year": "1964",
+      "pubCount": "44"
+    },
+    {
+      "year": "1963",
+      "pubCount": "50"
+    },
+    {
+      "year": "1962",
+      "pubCount": "29"
+    },
+    {
+      "year": "1961",
+      "pubCount": "25"
+    },
+    {
+      "year": "1960",
+      "pubCount": "39"
+    },
+    {
+      "year": "1959",
+      "pubCount": "24"
+    },
+    {
+      "year": "1958",
+      "pubCount": "31"
+    },
+    {
+      "year": "1957",
+      "pubCount": "17"
+    },
+    {
+      "year": "1956",
+      "pubCount": "21"
+    },
+    {
+      "year": "1955",
+      "pubCount": "25"
+    },
+    {
+      "year": "1954",
+      "pubCount": "19"
+    },
+    {
+      "year": "1953",
+      "pubCount": "9"
+    },
+    {
+      "year": "1952",
+      "pubCount": "15"
+    },
+    {
+      "year": "1951",
+      "pubCount": "15"
+    },
+    {
+      "year": "1950",
+      "pubCount": "13"
+    },
+    {
+      "year": "1949",
+      "pubCount": "12"
+    },
+    {
+      "year": "1948",
+      "pubCount": "10"
+    },
+    {
+      "year": "1947",
+      "pubCount": "3"
+    },
+    {
+      "year": "1946",
+      "pubCount": "5"
+    },
+    {
+      "year": "1945",
+      "pubCount": "5"
+    },
+    {
+      "year": "1944",
+      "pubCount": "6"
+    },
+    {
+      "year": "1943",
+      "pubCount": "7"
+    },
+    {
+      "year": "1942",
+      "pubCount": "9"
+    },
+    {
+      "year": "1941",
+      "pubCount": "9"
+    },
+    {
+      "year": "1940",
+      "pubCount": "13"
+    },
+    {
+      "year": "1939",
+      "pubCount": "5"
+    },
+    {
+      "year": "1938",
+      "pubCount": "6"
+    },
+    {
+      "year": "1937",
+      "pubCount": "9"
+    },
+    {
+      "year": "1936",
+      "pubCount": "12"
+    },
+    {
+      "year": "1935",
+      "pubCount": "3"
+    },
+    {
+      "year": "1934",
+      "pubCount": "5"
+    },
+    {
+      "year": "1933",
+      "pubCount": "13"
+    },
+    {
+      "year": "1932",
+      "pubCount": "5"
+    },
+    {
+      "year": "1931",
+      "pubCount": "9"
+    },
+    {
+      "year": "1930",
+      "pubCount": "6"
+    },
+    {
+      "year": "1929",
+      "pubCount": "6"
+    },
+    {
+      "year": "1928",
+      "pubCount": "11"
+    },
+    {
+      "year": "1927",
+      "pubCount": "8"
+    },
+    {
+      "year": "1926",
+      "pubCount": "4"
+    },
+    {
+      "year": "1925",
+      "pubCount": "4"
+    },
+    {
+      "year": "1924",
+      "pubCount": "6"
+    },
+    {
+      "year": "1923",
+      "pubCount": "4"
+    },
+    {
+      "year": "1922",
+      "pubCount": "3"
+    },
+    {
+      "year": "1921",
+      "pubCount": "2"
+    },
+    {
+      "year": "1920",
+      "pubCount": "2"
+    },
+    {
+      "year": "1919",
+      "pubCount": "2"
+    },
+    {
+      "year": "1918",
+      "pubCount": "3"
+    },
+    {
+      "year": "1917",
+      "pubCount": "3"
+    },
+    {
+      "year": "1916",
+      "pubCount": "6"
+    },
+    {
+      "year": "1915",
+      "pubCount": "2"
+    },
+    {
+      "year": "1914",
+      "pubCount": "5"
+    },
+    {
+      "year": "1913",
+      "pubCount": "3"
+    },
+    {
+      "year": "1912",
+      "pubCount": "1"
+    },
+    {
+      "year": "1911",
+      "pubCount": "6"
+    },
+    {
+      "year": "1910",
+      "pubCount": "7"
+    },
+    {
+      "year": "1909",
+      "pubCount": "12"
+    },
+    {
+      "year": "1908",
+      "pubCount": "3"
+    },
+    {
+      "year": "1906",
+      "pubCount": "5"
+    },
+    {
+      "year": "1905",
+      "pubCount": "7"
+    },
+    {
+      "year": "1904",
+      "pubCount": "4"
+    },
+    {
+      "year": "1903",
+      "pubCount": "7"
+    },
+    {
+      "year": "1902",
+      "pubCount": "5"
+    },
+    {
+      "year": "1901",
+      "pubCount": "4"
+    },
+    {
+      "year": "1900",
+      "pubCount": "6"
+    },
+    {
+      "year": "1899",
+      "pubCount": "7"
+    },
+    {
+      "year": "1898",
+      "pubCount": "3"
+    },
+    {
+      "year": "1896",
+      "pubCount": "2"
+    },
+    {
+      "year": "1895",
+      "pubCount": "2"
+    },
+    {
+      "year": "1894",
+      "pubCount": "3"
+    },
+    {
+      "year": "1893",
+      "pubCount": "2"
+    },
+    {
+      "year": "1892",
+      "pubCount": "4"
+    },
+    {
+      "year": "1891",
+      "pubCount": "1"
+    },
+    {
+      "year": "1890",
+      "pubCount": "1"
+    },
+    {
+      "year": "1884",
+      "pubCount": "2"
+    },
+    {
+      "year": "1883",
+      "pubCount": "2"
+    },
+    {
+      "year": "1881",
+      "pubCount": "1"
+    },
+    {
+      "year": "1880",
+      "pubCount": "1"
+    },
+    {
+      "year": "1878",
+      "pubCount": "1"
+    },
+    {
+      "year": "1869",
+      "pubCount": "1"
+    },
+    {
+      "year": "1867",
+      "pubCount": "1"
+    },
+    {
+      "year": "1866",
+      "pubCount": "1"
+    },
+    {
+      "year": "1860",
+      "pubCount": "2"
+    },
+    {
+      "year": "1830",
+      "pubCount": "1"
+    }
+  ]
+}
