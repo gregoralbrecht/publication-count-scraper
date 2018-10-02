@@ -1,4 +1,5 @@
 # Publication Count Scraper 🤓
+Tiny script for a friend.
 
 ## Usage
 1. Install [`node`](https://nodejs.org) and [`yarn`](https://yarnpkg.com) on your machine
